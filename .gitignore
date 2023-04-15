@@ -105,3 +105,4 @@ dist
 
 # ts build folder
 build
+config/default.json

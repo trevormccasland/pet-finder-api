@@ -6,7 +6,7 @@
       "strict": true,
       "esModuleInterop": true,
       "moduleResolution": "nodenext",
-      "lib": ["ESNext"]
+      "lib": ["ESNext", "DOM"]
     },
     "exclude": [
         "node_modules"
